@@ -1,0 +1,1 @@
+#This is the landing page project for theodinproject.com. It is meant to practice layout and design techniques
